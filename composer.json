@@ -2,7 +2,7 @@
     "name": "adbouli/dockworkersymfony",
     "description": "The dockworker's symphony - A Docker manager for Symfony PHP framework",
     "type": "library",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Adbouli\\Dockworkersymfony\\": "src/"
